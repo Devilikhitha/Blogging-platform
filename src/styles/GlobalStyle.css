@@ -1,0 +1,35 @@
+/* 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    font-family: inherit;
+  } */ 
+
+
+  /* src/styles/GlobalStyle.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image:url('https://i.pinimg.com/564x/b1/36/f3/b136f3dd69e1e81c93fd13f0996eba30.jpg');
+  }
+  
+  h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  input,
+  textarea {
+    font-family: inherit;
+  }
+  
+  

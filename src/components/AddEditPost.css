@@ -1,0 +1,117 @@
+/* 
+.add-edit-post {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-edit-post h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .add-edit-post form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-edit-post label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .add-edit-post input,
+  .add-edit-post textarea {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .add-edit-post textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .add-edit-post button {
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-edit-post button:hover {
+    background-color: #0056b3;
+  }
+   */
+
+
+
+
+
+   /* src/components/AddEditPost.css */
+.add-edit-post {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-edit-post h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .add-edit-post form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-edit-post label {
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .add-edit-post input,
+  .add-edit-post textarea {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .add-edit-post textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .add-edit-post button {
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-edit-post button:hover {
+    background-color: #0056b3;
+  }
+  
